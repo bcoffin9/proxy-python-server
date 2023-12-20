@@ -24,7 +24,6 @@
 
 1. The proxy server can accept a request and forward the request to the destination server
 2. The proxy server can take the response and map it to the browser.
-3. Threading allows simultaneous requests to be made by the browser.
 
 ---
 
